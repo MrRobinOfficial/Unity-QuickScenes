@@ -1,0 +1,20 @@
+{
+    "name": "MrRobinOfficial.QuickScenes.Editor",
+    "rootNamespace": "MrRobinOfficial.QuickScenes.Editor",
+    "references": [
+        "GUID:9edf6d04eabfd482385646eaba23fdfc",
+        "GUID:e210ed6d930981c4c8c3441fe09fe4fa",
+        "GUID:5321d352818d4ef4a9f3d5ebec46dc0b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,29 @@
+{
+  "name": "com.mrrobinofficial.quick-scenes",
+  "version": "0.1.0",
+  "displayName": "Quick Scenes",
+  "description": "Allows you to quickly open scenes from the editor.",
+  "category": "Editor",
+  "unity": "2022.3",
+  "documentationUrl": "https://github.com/MrRobinOfficial/Unity-QuickScenes",
+  "dependencies": {
+    "com.mrrobinofficial.serialized-dictionary": "0.1.0",
+    "com.gilzoide.easy-project-settings": "1.1.0"
+  },
+  "keywords": [
+    "tool",
+    "tools",
+    "workflow",
+    "editor",
+    "quick",
+    "scene",
+    "scenes"
+  ],
+  "author": {
+    "name": "Robin Johannesson",
+    "email": "mrrobin123mail@gmail.com",
+    "url": "https://github.com/MrRobinOfficial"
+  },
+  "license": "MIT",
+  "hideInEditor": false
+}
