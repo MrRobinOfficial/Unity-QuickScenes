@@ -1,4 +1,4 @@
-![Banner](Documentation~/Images/Banner.png)
+![Banner](Documentation~/Images/banner.png)
 
 <div align="center">
   
@@ -16,13 +16,45 @@
     </p>
 </center>
 
-<!-- INCLUDE SCREENSHOTS -->
+![Usage](Documentation~/Images/usage.gif)
+
+![Settings](Documentation~/Images/settings.png)
 
 ## ⚙️ Before you begin
 
-* Unity 2022.3 and later
-* [Serialized Dictionary](https://github.com/MrRobinOfficial/SerializedDictionary)
-* [Easy Project Settings](https://github.com/gilzoide/unity-easy-project-settings)
+* Unity 2022.x and later
+* [Serialized Dictionary](https://github.com/MrRobinOfficial/SerializedDictionary)*
+* [Easy Project Settings](https://github.com/gilzoide/unity-easy-project-settings)*
+
+> [!CAUTION]
+> Required packages are marked with `*`.
+
+### ⚙️ Required Packages
+
+#### Easy Project Settings
+
+This package is available on the [openupm registry](https://openupm.com/)
+and can be installed using the [openupm-cli](https://github.com/openupm/openupm-cli):
+
+```
+openupm add com.gilzoide.easy-project-settings
+```
+
+Otherwise, you can install directly using the [Unity Package Manager](https://docs.unity3d.com/Manual/upm-ui-giturl.html)
+with the following URL:
+
+```
+https://github.com/gilzoide/unity-easy-project-settings.git#1.1.0
+```
+
+### SerializedDictionary (My fork)
+
+You can install directly using the [Unity Package Manager](https://docs.unity3d.com/Manual/upm-ui-giturl.html)
+with the following URL:
+
+```
+https://github.com/MrRobinOfficial/SerializedDictionary.git
+```
 
 ## ⚒️ How to Install
 
@@ -57,4 +89,5 @@ Scene group definitions are fully configurable via the **Project Settings**.
 > 🔗 The toolbar button uses Unity’s [Editor Overlays](https://docs.unity3d.com/Manual/overlays.html) system.
 
 ## 🆘 Support
+
 If you have any questions or issue, just write either to my [YouTube channel](https://www.youtube.com/@mrrobinofficial), [Email](mailto:mrrobin123mail@gmail.com) or [Twitter DM](https://twitter.com/MrRobinOfficial).
