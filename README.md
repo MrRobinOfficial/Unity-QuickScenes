@@ -27,7 +27,7 @@
 * [Easy Project Settings](https://github.com/gilzoide/unity-easy-project-settings)*
 
 > [!CAUTION]
-> Required packages are marked with `*`.
+> Packages marked with `*` are required to install before installing this package.
 
 ### ⚙️ Required Packages
 
