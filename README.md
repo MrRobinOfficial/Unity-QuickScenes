@@ -87,7 +87,7 @@ Scene group definitions are fully configurable via the **Project Settings**.
 4. Use the **Scene Selector** button in the editor toolbar to activate the overlay and access the grouped scene search window.
 
 > [!NOTE]
-> 🔗 The toolbar button uses Unity’s [Editor Overlays](https://docs.unity3d.com/Manual/overlays.html) system.
+> The toolbar button uses Unity’s [Editor Overlays](https://docs.unity3d.com/Manual/overlays.html) system.
 
 ## 🆘 Support
 
